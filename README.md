@@ -11,4 +11,5 @@ Paizaのスキルチェック(java)を解くためのソースです。 <br>
 
 参考 -> https://qiita.com/aky100200/items/f4f7d6279524774610fc <br>
 ほぼこのまま使えるのかな？とみて実装したもののテストを動作させるとプログレスが０になってしまい、エラーにさえならない。 <br>
-実装したStandardInputStream および StandardOutputStream クラスをしっかり理解できていないためこの辺に何か問題があるのかもしれない。
+実装したStandardInputStream および StandardOutputStream クラスをしっかり理解できていないためこの辺に何か問題があるのかもしれない。<br>
+アサーションが発動してない？？ <br>
